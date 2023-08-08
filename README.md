@@ -1,3 +1,5 @@
+# [来自 Dan's Blog](https://github.com/reactwg/server-components/discussions/5)
+
 Example
 To run this example:
 
